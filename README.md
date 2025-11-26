@@ -12,6 +12,7 @@ Base URL: `http://localhost:8075/api`
 
 ### **POST /atividade2/movimentar-estoque**
 **URL:** `http://localhost:8075/api/atividade2/movimentar-estoque`
+
 **RequestBody esperado:**
 ```
 {
